@@ -1,2 +1,4 @@
-# rossmann_sales_prediction
-Sales forecast for the stores that make up the Rossmann drugstore chain, using Machine Learning. A Full Data Science Project.
+<h1> Rossmann  Sales Prediction </h1>
+
+<h2> Sales Prediction with Machine Learning </h2>
+
