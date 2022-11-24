@@ -44,8 +44,37 @@ The assumption about the business is as follow:
 - For stores that did not have Competition Distance information, it was assumed that the distance would be 200000 meters (without competition nearby).
 
 
+
 ## 3. Solution Strategy
 
+The project management method for Data Science chosen for the development of the solution was the Cross Industry Process - Data Science (CRISP-DS), which consists of a cyclical development method, based on very well defined steps. With each complete CRISP-DS cycle it will be possible to:
+
+- Have an End-to-End version of the solution
+- Speed in value creation
+- Mapping of all possible problems in the development of the solution
+
+![crisp_cycle](https://github.com/leonardomcordeiro/rossmann_sales_prediction/blob/main/images/crisp_ds.png)
+
+
+Therefore, the project will be carried out according to the following steps:
+
+1. Data Description
+2. Feature Engineering
+3. Data Filtering
+4. Exploratory Data Analysis
+5. Data Preparation
+6. Feature Selection
+7. Machine Learning Modeling
+8. Hyper Parameter Fine Tuning
+9. Model-to-Business Interpretation
+10. Model Deploy
+
+
+## 4. Top 3 Data Insights
+
+1. **Stores with closer competitors should sell less.**
+
+*False*. Stores with closer competitors sold more, and distance from competitors does not seem to correlate with sales.
 
 
 
