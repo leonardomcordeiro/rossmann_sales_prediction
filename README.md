@@ -165,7 +165,7 @@ After the fine tunning this is the final result:
 
 
 ## 6. Deploy of Model
-Having developed the model locally, it's time to make its predictions accessible to Rossmann's CFO, that is, to put it in a production environment. For this, the Flask framework and the Heroku cloud server were used. Below you can see the Telegram bot working.
+Having developed the model locally, it's time to make its predictions accessible to Rossmann's CFO, that is, to put it in a production environment. For this, the Flask framework and the Heroku cloud server were used. Below you can see the [Telegram bot](https://t.me/rossmannlc_bot) working.
 
 
 
