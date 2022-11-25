@@ -192,10 +192,8 @@ The project performed very well for the first CRISP cycle, an end-to-end solutio
 ## Contacte me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-mcordeiro/)
-
-![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:leonardoaai@yahoo.com.br)
-
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tdbinvestimentos@gmail.com)
+[![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:leonardoaai@yahoo.com.br)](mailto:leonardoaai@yahoo.com.br)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tdbinvestimentos@gmail.com)](mailto:tdbinvestimentos@gmail.com)
 
 
 
