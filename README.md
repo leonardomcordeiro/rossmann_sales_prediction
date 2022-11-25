@@ -169,6 +169,12 @@ Having developed the model locally, it's time to make its predictions accessible
 
 
 
+
+
+https://user-images.githubusercontent.com/93056781/204028594-e7f19ae6-c294-4dfd-b8da-3c4673b4ae20.mp4
+
+
+
 ## 7. Conclusion
 
 The project performed very well for the first CRISP cycle, an end-to-end solution was delivered capable of generating value to the business, and creating a data-driven environment, allowing the CFO to make more accurate decisions regarding the company's budget and cash flow. Rossmann.
