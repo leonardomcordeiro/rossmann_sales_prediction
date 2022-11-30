@@ -164,7 +164,7 @@ After the fine tunning this is the final result:
 | best_scenario | $ 286,863,512.67 |
 
 
-## 6. Deploy of Model
+## 7. Deploy of Model
 Having developed the model locally, it's time to make its predictions accessible to Rossmann's CFO, that is, to put it in a production environment. For this, the Flask framework and the Heroku cloud server were used. Below you can see the [Telegram bot](https://t.me/rossmannlc_bot) working.
 
 
@@ -175,11 +175,11 @@ https://user-images.githubusercontent.com/93056781/204028594-e7f19ae6-c294-4dfd-
 
 
 
-## 7. Conclusion
+## 8. Conclusion
 
 The project performed very well for the first CRISP cycle, an end-to-end solution was delivered capable of generating value to the business, and creating a data-driven environment, allowing the CFO to make more accurate decisions regarding the company's budget and cash flow. Rossmann.
 
-## 8. Next Steps
+## 9. Next Steps
 
 • Evaluate the new demands of the business team
  
