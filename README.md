@@ -103,7 +103,7 @@ The other insights can be visualized in the notebook with exploratory data analy
 
 
 
-## 4. Machine Learning Models
+## 5. Machine Learning Models
 
 
 The data were properly treated before data modeling, and the selection of features was done with the Boruta algorithm, more details you can find in the project notebooks.
@@ -143,7 +143,7 @@ After the fine tunning this is the final result:
 
 
 
-## 5. Error Interpretation
+## 6. Error Interpretation
 
 ### Machine Learning Performance:
 
